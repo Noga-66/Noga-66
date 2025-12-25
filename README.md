@@ -8,6 +8,8 @@
 AI Engineer • AI & Data Science @ ERU • ECPC Contestant • Co-Founder & CTO @ Tiryak
 </h3>
 
+
+<h1 align="center">🌐 Connect With Me</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/nada-hossam-80260831b">
     <img src="https://img.shields.io/badge/LinkedIn-Nada%20Hossam-blue?logo=linkedin">
@@ -115,19 +117,25 @@ Egyptian Russian University (ERU), Cairo
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourActualUsername&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noga-66&theme=github_dark" alt="GitHub Profile Details" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YourActualUsername&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noga-66&theme=github_dark" alt="GitHub Stats" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noga-66&theme=github_dark" alt="Productive Time" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noga-66&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noga-66&theme=github_dark" alt="Repos Per Language" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noga-66&theme=github_dark" alt="Most Commit Language" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourActualUsername&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Noga-66&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noga-66&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="800"/>
 </p>
 ---
 
