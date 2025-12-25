@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nada Hossam</h1>
+
 
 
 
@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=1024&lines=Hi+%F0%9F%91%8B%2C+I'm+Nada+Hossam;AI+Engineer+%E2%80%A2+AI+%26+Data+Science+%40+ERU;ECPC+Contestant+%E2%80%A2+Co-Founder+%26+CTO+%40+Tiryak" alt="Typing SVG" />
 </p>
 
-
-
----
-
-<h3 align="center">
-AI Engineer • AI & Data Science @ ERU • ECPC Contestant • Co-Founder & CTO @ Tiryak
-</h3>
 
 ---
 
