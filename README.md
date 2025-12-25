@@ -6,20 +6,7 @@
 
 ---
 
-<h1 align="center">🌐 Connect With Me</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/nada-hossam-80260831b">
-    <img src="https://img.shields.io/badge/LinkedIn-Nada%20Hossam-blue?logo=linkedin">
-  </a>
-  <a href="mailto:nada234hossam678@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Egypt-success">
-</p>
-
----
-
-## 🧠 Professional Summary
+## 🧠 About me
 Dynamic technology leader with a proven track record at **Tiryak**, leveraging **AI and Computer Science** to enhance
 medication accessibility. Skilled in **Python, project management, and startup operations**, with strong experience
 in building teams and delivering innovative solutions.  
@@ -135,6 +122,19 @@ Egyptian Russian University (ERU), Cairo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noga-66&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="800"/>
 </p>
 
+---
+
+<h1 align="center">🌐 Connect With Me</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nada-hossam-80260831b">
+    <img src="https://img.shields.io/badge/LinkedIn-Nada%20Hossam-blue?logo=linkedin">
+  </a>
+  <a href="mailto:nada234hossam678@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Egypt-success">
+</p>
+---
 
 <p align="center">
   <b>“Building intelligent systems with real-world impact.”</b>
