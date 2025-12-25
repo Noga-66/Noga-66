@@ -113,19 +113,14 @@ Egyptian Russian University (ERU), Cairo
 📅 *Expected Graduation: July*
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noga-66&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
----
-
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Noga-66&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
-
 
 
 ---
