@@ -139,9 +139,9 @@ Egyptian Russian University (ERU), Cairo
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noga-66&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="800"/>
 </p>
----
+
 
 <p align="center">
   <b>“Building intelligent systems with real-world impact.”</b>
 </p>
----
+
