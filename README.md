@@ -116,9 +116,15 @@ Egyptian Russian University (ERU), Cairo
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noga-66&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noga-66&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noga-66&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Noga-66&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 
 
