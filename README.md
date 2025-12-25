@@ -3,38 +3,12 @@
 
 
 
+
 <p align="center">
-  <div style="background: linear-gradient(45deg, #0f0f23, #1a1a2e, #16213e); color: #ffffff; padding: 30px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5); animation: fadeInGlow 4s ease-in-out; position: relative; overflow: hidden;">
-    <h1 style="font-family: 'Arial', sans-serif; font-size: 2.5em; margin: 0; animation: typewriter 5s steps(20) 1s both; text-shadow: 0 0 10px #00ffff; white-space: nowrap; overflow: hidden; border-right: 2px solid #00ffff;">
-      Hi 👋, I'm Nada Hossam
-    </h1>
-    <p style="font-size: 1.2em; margin-top: 10px; animation: slideUp 3s ease-out 4s both; opacity: 0;">
-      AI Engineer • AI & Data Science @ ERU • ECPC Contestant • Co-Founder & CTO @ Tiryak
-    </p>
-    <!-- إضافة عنصر متحرك صغير مثل نجمة -->
-    <div style="position: absolute; top: 10px; right: 20px; font-size: 2em; animation: spin 3s linear infinite;">✨</div>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=1024&lines=Hi+%F0%9F%91%8B%2C+I'm+Nada+Hossam;AI+Engineer+%E2%80%A2+AI+%26+Data+Science+%40+ERU;ECPC+Contestant+%E2%80%A2+Co-Founder+%26+CTO+%40+Tiryak" alt="Typing SVG" />
 </p>
 
-<style>
-  @keyframes fadeInGlow {
-    0% { opacity: 0; box-shadow: 0 0 0 rgba(0, 255, 255, 0); }
-    50% { opacity: 0.7; box-shadow: 0 0 15px rgba(0, 255, 255, 0.3); }
-    100% { opacity: 1; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5); }
-  }
-  @keyframes typewriter {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-  @keyframes slideUp {
-    from { transform: translateY(20px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-  }
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
+
 
 ---
 
