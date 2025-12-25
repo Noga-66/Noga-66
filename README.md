@@ -25,7 +25,7 @@ Dynamic technology leader with a proven track record at **Tiryak**, leveraging *
 medication accessibility. Skilled in **Python, project management, and startup operations**, with strong experience
 in building teams and delivering innovative solutions.  
 
-- Participant in **ECPC**, **NASA Space Apps Challenge**, and **AI Competition Digitot**, demonstrating strong problem-solving skills and innovative thinking.
+Participant in **ECPC**, **NASA Space Apps Challenge**, and **AI Competition Digitot**, demonstrating strong problem-solving skills and innovative thinking.
 
 ---
 
@@ -81,7 +81,7 @@ in building teams and delivering innovative solutions.
 
 ## 📂 Projects
 - 🖐️ **AI Virtual Keyboard** — Computer Vision-based hand tracking keyboard using MediaPipe & OpenCV  
-- 🐾 **Y'all Object & Animal Detection** — Deep learning object/animal recognition  
+- 🐾 **YOLOv8-Object-Animal-Detection ** — Deep learning object/animal recognition  
 - 📊 **Employee Churn Analysis** — Predicting employee turnover with ML models  
 - ✍️ **Handwritten Digit Recognition** — Neural network for MNIST dataset digits  
 - 💊 **Pharmacy Management System** — Java & SQL inventory & transactions management  
@@ -101,7 +101,7 @@ in building teams and delivering innovative solutions.
 ---
 
 ## 🏆 Competitions & Hackathons
-- **AI Competition Digitot** — Participant  
+- **AI Competition Digitopia** — Participant  
 - **NASA Space Apps Challenge** — Participant  
 - **ECPC** — Team Leader / Contestant  
 
@@ -114,11 +114,12 @@ Egyptian Russian University (ERU), Cairo
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadaHossam&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaHossam&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Noga-66&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noga-66&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
+
+
 
 ---
 
