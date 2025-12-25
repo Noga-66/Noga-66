@@ -1,4 +1,9 @@
-<h1 align="center">Nada Hossam</h1>
+<h1 align="center">Hi 👋, I'm Nada Hossam</h1>
+
+<p align="center">
+  <img src="https://your-image-link-here.com/banner.png" alt="Profile Banner" width="400"/>
+</p>
+
 <h3 align="center">
 AI Engineer • AI & Data Science @ ERU • ECPC Contestant • Co-Founder & CTO @ Tiryak
 </h3>
@@ -19,8 +24,8 @@ AI Engineer • AI & Data Science @ ERU • ECPC Contestant • Co-Founder & CTO
 Dynamic technology leader with a proven track record at **Tiryak**, leveraging **AI and Computer Science** to enhance
 medication accessibility. Skilled in **Python, project management, and startup operations**, with strong experience
 in building teams and delivering innovative solutions.  
-An **ECPC contestant** with a passion for competitive programming and a participant in global hackathons such as
-**NASA Space Apps Challenge**, demonstrating the ability to tackle complex challenges effectively.
+
+- Participant in **ECPC**, **NASA Space Apps Challenge**, and **AI Competition Digitot**, demonstrating strong problem-solving skills and innovative thinking.
 
 ---
 
@@ -71,7 +76,34 @@ An **ECPC contestant** with a passion for competitive programming and a particip
 ### 🚀 Participant — **NASA Space Apps Challenge**
 - Collaborated in a global hackathon to solve real-world challenges using technology and data.  
 - Applied innovation, teamwork, and problem-solving under tight deadlines.  
-- Contributed to developing data-driven, tech-based solutions aligned with space and Earth challenges.  
+
+---
+
+## 📂 Projects
+- 🖐️ **AI Virtual Keyboard** — Computer Vision-based hand tracking keyboard using MediaPipe & OpenCV  
+- 🐾 **Y'all Object & Animal Detection** — Deep learning object/animal recognition  
+- 📊 **Employee Churn Analysis** — Predicting employee turnover with ML models  
+- ✍️ **Handwritten Digit Recognition** — Neural network for MNIST dataset digits  
+- 💊 **Pharmacy Management System** — Java & SQL inventory & transactions management  
+- 🏦 **Bank Management System** — C++ banking application  
+
+---
+
+## 📜 Certifications
+- Machine Learning Certificate — **Upskilling NTI**  
+- Problem Solver — **ECPC**  
+- Galactic Problem Solver — **NASA Space Apps Challenge**  
+- Innvo Egypt  
+- AWS Certificate — Cloud  
+- Python Programming Basics — **MaharaTech**  
+- Analyzing and Visualizing Data — **Microsoft Excel**
+
+---
+
+## 🏆 Competitions & Hackathons
+- **AI Competition Digitot** — Participant  
+- **NASA Space Apps Challenge** — Participant  
+- **ECPC** — Team Leader / Contestant  
 
 ---
 
@@ -82,26 +114,6 @@ Egyptian Russian University (ERU), Cairo
 
 ---
 
-## 📜 Certifications
-- SQL — SoloLearn  
-- R Programming — Alison  
-
----
-
-## 📂 Projects
-- 💊 **Pharmacy Management System**  
-  Designed and developed a comprehensive system using **Java & SQL** to manage pharmacy inventory and transactions.
-
-- 🏦 **Bank Management System**  
-  Built a banking application using **C++** to streamline operations and improve efficiency.
-
----
-
-## 🌱 Interests
-- Entrepreneurship  
-- Applying Artificial Intelligence across diverse real-world domains  
-
----
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NadaHossam&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
