@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nada Hossam</h1>
 
 <p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Profile Banner" width="400"/>
+  <img src="./banner.gif" alt="Animated Profile Banner" width="1024"/>
 </p>
 
 <h3 align="center">
