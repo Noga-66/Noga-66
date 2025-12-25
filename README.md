@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Nada Hossam</h1>
 
+
+
 <p align="center">
   <div style="background: linear-gradient(45deg, #0f0f23, #1a1a2e, #16213e); color: #ffffff; padding: 30px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5); animation: fadeInGlow 4s ease-in-out; position: relative; overflow: hidden;">
     <h1 style="font-family: 'Arial', sans-serif; font-size: 2.5em; margin: 0; animation: typewriter 5s steps(20) 1s both; text-shadow: 0 0 10px #00ffff; white-space: nowrap; overflow: hidden; border-right: 2px solid #00ffff;">
@@ -33,6 +35,8 @@
     to { transform: rotate(360deg); }
   }
 </style>
+
+---
 
 <h3 align="center">
 AI Engineer • AI & Data Science @ ERU • ECPC Contestant • Co-Founder & CTO @ Tiryak
