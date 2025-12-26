@@ -115,7 +115,7 @@ Egyptian Russian University (ERU), Cairo
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Noga-66&theme=dark&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Noga-66&color=blue" alt="Profile Views"/>
 </p>
 
 
