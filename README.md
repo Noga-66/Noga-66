@@ -114,9 +114,8 @@ Egyptian Russian University (ERU), Cairo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noga-66&theme=github_dark" alt="Most Commit Language" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Noga-66&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="600"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Noga-66&theme=dark&hide_border=true)
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noga-66&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="800"/>
