@@ -11,7 +11,7 @@ Dynamic technology leader with a proven track record at **Tiryak**, leveraging *
 medication accessibility. Skilled in **Python, project management, and startup operations**, with strong experience
 in building teams and delivering innovative solutions.  
 
-Participant in **ECPC**, **NASA Space Apps Challenge**, and **AI Competition Digitot**, demonstrating strong problem-solving skills and innovative thinking.
+Participant in **ECPC**, **NASA Space Apps Challenge**, and **AI Competition Digitopia**, demonstrating strong problem-solving skills and innovative thinking.
 
 ---
 
