@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FFFF&background=000000&center=true&vCenter=true&width=1400&size=35&lines=Hi+%F0%9F%91%8B%2C+I'm+Nada+Hossam;Artificial+Intelligence+Engineer+%E2%80%A2+AI+%26+Data+Science+%40+ERU;ECPC+Contestant+%E2%80%A2+Founder+%26+Co-founder+%40+Smart AI-Grid" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FFFF&background=000000&center=true&vCenter=true&width=1000&size=30&lines=Hi+👋,+I'm+Nada+Hossam;Artificial+Intelligence+Engineer+•+AI+%26+Data+Science+@+ERU;ECPC+Contestant+•+Founder+%26+Co-founder+@+Smart+AI-Grid" 
+    alt="Typing SVG" 
+  />
 </p>
 
 
